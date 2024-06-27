@@ -1,0 +1,144 @@
+[
+    {
+        "langguange": [
+            {
+                "id": 1,
+                "name": "HTML",
+                "description": "I know this is't a programing languange but i don't know where to put it, hahaha",
+                "logo": "src"
+            },
+            {
+                "id": 2,
+                "name": "CSS",
+                "description": "This one is not a programing languange, i know but i just going to put it here aniway",
+                "logo": "src"
+            },
+            {
+                "id": 3,
+                "name": "JS",
+                "description": "I know this is't a programing languange but i don't know where to put it, hahaha",
+                "logo": "src"
+            },
+            {
+                "id": 4,
+                "name": "PHP",
+                "description": "I know this is't a programing languange but i don't know where to put it, hahaha",
+                "logo": "src"
+            },
+            {
+                "id": 5,
+                "name": "SQL",
+                "description": "I know this is't a programing languange but i don't know where to put it, hahaha",
+                "logo": "src"
+            }
+        ]
+    },
+    {
+        "library": [
+            {
+                "id": 1,
+                "name": "React",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 2,
+                "name": "Axios",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 3,
+                "name": "VUE.js",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 4,
+                "name": "Motion",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 5,
+                "name": "Redux",
+                "description": "",
+                "logo": "src"
+            }
+        ]
+    },
+    {
+        "frameworks": [
+            {
+                "id": 1,
+                "name": "Tailwind",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 2,
+                "name": "Bootstrap",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 3,
+                "name": "Codigniter",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 4,
+                "name": "Express",
+                "description": "",
+                "logo": "src"
+            }
+        ]
+    },
+    {
+        "other": [
+            {
+                "id": 1,
+                "name": "Rest API",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 2,
+                "name": "Open API",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 3,
+                "name": "GIT",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 4,
+                "name": "Jira",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 4,
+                "name": "Trello",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 5,
+                "name": "Postgres",
+                "description": "",
+                "logo": "src"
+            },
+            {
+                "id": 6,
+                "name": "Chat GPT",
+                "description": "",
+                "logo": "src"
+            }
+        ]
+    }
+]

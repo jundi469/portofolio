@@ -1,0 +1,118 @@
+[
+  {
+    "section1": [
+      {
+        "id": 1,
+        "image": "1_w0mgia",
+        "width": "20rem",
+        "class": "inset-[8rem] w-[20rem] hover:w-[23rem]",
+        "name": "Persuratan Upana",
+        "description": "In this project i use React, axios, and tailwind to buld the frontend, and using express as the backend",
+        "url": "https://www.youtube.com/watch?v=00dvNBbjoII",
+        "factoryX": 0.1,
+        "factoryY": 0.1
+      },
+      {
+        "id": 2,
+        "image": "3_rfywro",
+        "width": "20rem",
+        "class": "inset-[3rem] left-[35rem] w-[20rem] hover:w-[23rem]",
+        "name": "Confie.id",
+        "description": "This project is built using React, Tailwind, and Axios for fetching data from an API that has already been built by the backend developer. As the frontend developer, my responsibility was to create three pages within a three-month timeframe. You can see the demo of these pages in the demo section.",
+        "url": "https://www.youtube.com/watch?v=FUt2BKOger0",
+        "factoryX": 0.2,
+        "factoryY": 0.2
+      },
+      {
+        "id": 3,
+        "width": "15rem",
+        "image": "6_bwyo8b",
+        "class": "inset-[18rem] left-[60rem] w-[15rem] hover:w-[20rem]",
+        "name": "Sebuah Teman",
+        "description": "This website utilizes Next.js, Tailwind, Axios, Prisma, NextAuth, and the OpenAI API to incorporate advanced AI features, enhancing its functionality and user experience, i create this website in 1 mounth, you can visit it in sebuahteman.site.",
+        "url": "https://www.youtube.com/watch?v=_y2-Er1jxe4",
+        "factoryX": 0.2,
+        "factoryY": 0.2
+      },
+      {
+        "id": 4,
+        "image": "13_gbxvla",
+        "width": "17rem",
+        "class": "right-[19rem] top-[30rem] w-[17rem] hover:w-[23rem]",
+        "name": "TokoKu",
+        "description": "This website was built using Next.js version 13, Tailwind CSS, Axios, and a fake API that provides e-commerce data. Additionally, Google authentication was implemented for user login functionality on the website.",
+        "url": "https://www.youtube.com/watch?v=DFlAeaHML60",
+        "factoryX": 0.4,
+        "factoryY": 0.4
+      },
+      {
+        "id": 5,
+        "image": "6_hrk5cq",
+        "width": "20rem",
+        "class": "inset-[10rem] top-[25rem] w-[20rem] hover:w-[23rem]",
+        "name": "Digides FAQ",
+        "description": "This project was built using Bootstrap, along with a bit of custom CSS and JavaScript. To handle the animations on the website, the AOS (Animate On Scroll) library was utilized. The FAQ page is still dynamic, as it does not rely on any external API for its content.",
+        "url": "https://www.youtube.com/watch?v=l6BhHUXy5wM",
+        "factoryX": 0.3,
+        "factoryY": 0.3
+      }
+    ],
+    "section2": [
+      {
+        "id": 6,
+        "image": "10_rr9ele",
+        "width": "20rem",
+        "class": "inset-[8rem] w-[20rem] hover:w-[23rem]",
+        "name": "Pisangji",
+        "description": "Pisangji is my personal project where I focused on learning and implementing pure CSS, HTML, and JavaScript. However, I also incorporated the AOS (Animate On Scroll) library for smooth animations. Additionally, I used lazy loading techniques to improve the website's performance by rendering images only when they are needed.",
+        "url": "https://www.youtube.com/watch?v=6GNLxFVGyKU",
+        "factoryX": 0.3,
+        "factoryY": 0.3
+      },
+      {
+        "id": 7,
+        "image": "14_glay4v",
+        "width": "20rem",
+        "class": "inset-[3rem] left-[35rem] w-[20rem] hover:w-[23rem]",
+        "name": "E Catalogue",
+        "description": "This project was created using Vue.js, Tailwind CSS, and Axios. The project utilizes the Axios library to fetch data from a fake API that provides e-commerce data specifically for this project.",
+        "url": "https://www.youtube.com/watch?v=vWvoqdmZPkA",
+        "factoryX": 0.5,
+        "factoryY": 0.5
+      },
+      {
+        "id": 8,
+        "image": "8_j4er3d",
+        "width": "15rem",
+        "class": "inset-[18rem] left-[60rem] w-[15rem] hover:w-[20rem]",
+        "name": "Kampusku",
+        "description": "This is my personal project aimed at learning PHP. In this project, I utilized PHP along with Bootstrap, AOS (Animate On Scroll) library, and JavaScript. For database management, I used MySQL to store and retrieve data.",
+        "url": "https://www.youtube.com/watch?v=2UnfHkWW6c8",
+        "factoryX": 0.2,
+        "factoryY": 0.2
+      },
+      {
+        "id": 9,
+        "image": "7_pa55e6",
+        "width": "12rem",
+        "class": "right-[19rem] top-[30rem] w-[17rem] hover:w-[23rem]",
+        "name": "Car Rental",
+        "description": "This website was built using React and CSS. In this project, I implemented filtering functionality using JavaScript",
+        "url": "https://www.youtube.com/watch?v=JDjx0gIGCfM",
+        "factoryX": 0.3,
+        "factoryY": 0.4
+      },
+      {
+        "id": 10,
+        "image": "so_na_f8eeih",
+        "width": "20rem",
+        "class": "inset-[10rem] top-[25rem] w-[20rem] hover:w-[23rem]",
+        "name": "So'na",
+        "description": "In this project, I had the opportunity to explore AI technology for the first time. Using Next.js, Tailwind CSS, and the OpenAI API, I built an application that allowed me to gain practical experience with third-party API integration. It was an enlightening journey where I deepened my understanding of AI technology and its implementation.",
+        "url": "https://www.youtube.com/watch?v=XuqTGP74ik8",
+        "factoryX": 0.3,
+        "factoryY": 0.3
+      }
+    ]
+  }
+]
